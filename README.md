@@ -49,3 +49,7 @@ todolist-ai/
 ## License
 
 This project is licensed under the MIT License. See `LICENSE`.
+
+## Contributors
+Special thanks to all contributors who helped improve this project.
+
